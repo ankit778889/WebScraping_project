@@ -1,1 +1,2 @@
 # WebScraping_project
+Web scraping with Python involves extracting data from websites. It typically involves fetching web pages using libraries like `requests`, parsing the HTML content using tools like `BeautifulSoup`, and then extracting relevant information such as text, links, or images. Web scraping can be used for various purposes like data collection, monitoring, or automation, but it's important to respect website terms of service and legal considerations when scraping data.
